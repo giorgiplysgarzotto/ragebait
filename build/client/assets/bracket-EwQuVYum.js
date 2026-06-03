@@ -1,0 +1,1 @@
+import{D as e,t}from"./jsx-runtime-BZrYqnv7.js";import{t as n}from"./Game-DSoaD0Ph.js";var r=t(),i=e(function(){return(0,r.jsx)(n,{})});export{i as default};
